@@ -1,3 +1,5 @@
+
+//toDo Refactor
 let liArr = document.querySelectorAll('li');
 let input = document.querySelector('input');
 let spans = document.querySelectorAll('span');
